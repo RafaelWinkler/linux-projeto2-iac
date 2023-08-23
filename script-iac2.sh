@@ -1,4 +1,4 @@
-  GNU nano 6.2                                         script-iac2.sh                                                   #!/bin/bash
+#!/bin/bash
 
 echo "Atualizando o servidor"
 
